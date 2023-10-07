@@ -1,0 +1,12 @@
+{
+    "authors": [
+        {
+            "name": "Amin Mahmoudi",
+            "email": "Lichwow_masterking@yahoo.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^2.1",
+        "chrisyue/php-m3u8": "^4.0"
+    }
+}
